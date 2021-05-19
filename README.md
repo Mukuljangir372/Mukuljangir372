@@ -2,7 +2,7 @@
 
 - :alien: I’m @Mukuljangir372
 - 👀 I’m interested in Modern Android app Development
-- 🌱 I’m currently working with Android and kotlin
+- 🌱 I’m currently working with Android, Java And Kotlin
 - 🎓 Graduated from Udacity in Advance Android NanoDegree
 - 📫 How to reach me - mukul.jangir372@gmail.com
 - 📝 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
