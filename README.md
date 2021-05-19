@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with Android, Java And Kotlin
 - 🎓 Graduated from Udacity in Advance Android NanoDegree
 - 📫 How to reach me - mukul.jangir372@gmail.com
-- 📝 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
+- 🌐 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
 - 📝 [Resume](https://docs.google.com/document/d/1Xy3J0X4LPqnmLQQMmRi7mRTdG9vezk96PurwooeNKd8/edit?usp=sharing)
 
 
