@@ -7,7 +7,6 @@
 <br />
 <br />
 <br />
-<br />
 - :alien: I’m @Mukuljangir372
 - 👀 I’m interested in Modern Android app Development
 - 🌱 I’m currently working with Android and kotlin
