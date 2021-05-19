@@ -9,9 +9,7 @@
 - 📝 [Resume](https://docs.google.com/document/d/1Xy3J0X4LPqnmLQQMmRi7mRTdG9vezk96PurwooeNKd8/edit?usp=sharing)
 
 
-  <summary>:zap: Languages</summary>
-  <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuljangir372&layout=compact&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
-  
+
   <img align="left" alt="Mukul jangir" width="102px" src="https://github.com/Mukuljangir372/readme-assets/blob/main/output-onlinegiftools.gif" /> <br /> 
 
   
