@@ -6,7 +6,7 @@
 - 🎓 Graduated from Udacity in Advance Android NanoDegree
 - 📫 How to reach me - mukul.jangir372@gmail.com
 - 🌐 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
-- 📝 [Resume](https://docs.google.com/document/d/1Xy3J0X4LPqnmLQQMmRi7mRTdG9vezk96PurwooeNKd8/edit?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/13ar1_ngBLiHxPosES0eUVvxwpGr_j_is/view?usp=drivesdk)
 
 
 
