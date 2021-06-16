@@ -7,7 +7,7 @@
 - 📫 How to reach me - mukul.jangir372@gmail.com
 - :mag_right: [Portfolio](https://mukuljangir.dorik.io) 
 - 🌐 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
-- 📝 [Resume](https://drive.google.com/file/d/1zaoxqhT4vHxROOQ-RD9s0eUn9WstKkEk/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1UjhggdlXH1IAOap6MQ9HaMt5NpsA22vq/view?usp=sharing)
 
 
 
