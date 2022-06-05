@@ -1,8 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+### Mukul Jangir | Android & IOS app developer
 
 - :alien: I’m @Mukuljangir372
-- 👀 I’m interested in Modern Android app Development
-- 🌱 I’m currently working with Android, Java And Kotlin
+- 👀 I’m interested in Modern Android & IOS app Development
+- 🌱 I’m currently working with Android & IOS, kotlin, swift and java.
 - 🎓 Graduated from Udacity in Advance Android NanoDegree
 - 📫 How to reach me - mukul.jangir372@gmail.com
 - :mag_right: [Portfolio](https://mukuljangir.dorik.io) 
