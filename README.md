@@ -1,4 +1,4 @@
-### Mukul Jangir | Android & IOS app developer
+## Mukul Jangir | Android & IOS app developer
 
 - :alien: I’m @Mukuljangir372
 - 👀 I’m interested in Modern Android & IOS app development
