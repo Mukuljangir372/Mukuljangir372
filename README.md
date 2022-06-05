@@ -8,8 +8,4 @@
 - :mag_right: [Portfolio](https://mukuljangir.dorik.io) 
 - 🌐 [Apps on PlayStore](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
 
-
-
-  <img align="left" alt="Mukul jangir" width="102px" src="https://github.com/Mukuljangir372/readme-assets/blob/main/output-onlinegiftools.gif" /> <br /> 
-
   
